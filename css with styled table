@@ -1,0 +1,73 @@
+DOCTYPE html>
+<html>
+</html>
+<head>
+<title>CSS</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+<p> This is my new CSS<p>
+<font size="1100px"> </font>
+<style>
+
+
+  
+body{
+background:#FF0000;
+}
+div {
+    padding: 70px;
+    border: 1px solid #4CAF50;
+}
+</style>
+</head>
+<body>
+
+
+
+<style> 
+input {
+    width: 100%;
+}
+</style>
+</head>
+<body>
+
+<form>
+  <label for="fname">First Name</label>
+  <input type="text" id="fname" name="fname">
+</form>
+
+<style> 
+input {
+    width: 10%;
+}
+</style>
+
+<form>
+  <label for="lname">Last Name</label>
+  <input type="text" id="fname" name="fname">
+</form>
+
+<form>
+  
+<tr>
+<td>Sex</td>
+<td><input type="radio" name="Sex" Value="Male" size="10"> Male
+<input type="radio" name="radio" value="Female" size="10">Female
+</tr>
+
+<br>
+<tr>
+<td><input type="reset"></td>
+<td colspan="2"><input type="Submit" value="Submit Form"</td>
+</tr>
+</br>
+
+</form>
+
+
+
+</style>
+</head>
+
+<body>
